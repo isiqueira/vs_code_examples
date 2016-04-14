@@ -1,0 +1,9 @@
+C:\Users\Italo\Desktop\NET Framework 4 Formatting Utility\C# and VB\C#,VB\FormatUtilityCS\bin\Debug\Formatter.exe
+C:\Users\Italo\Desktop\NET Framework 4 Formatting Utility\C# and VB\C#,VB\FormatUtilityCS\bin\Debug\Formatter.pdb
+C:\Users\Italo\Desktop\NET Framework 4 Formatting Utility\C# and VB\C#,VB\FormatUtilityCS\obj\x86\Debug\FormatUtilityCS.csprojResolveAssemblyReference.cache
+C:\Users\Italo\Desktop\NET Framework 4 Formatting Utility\C# and VB\C#,VB\FormatUtilityCS\obj\x86\Debug\Formatter.Form1.resources
+C:\Users\Italo\Desktop\NET Framework 4 Formatting Utility\C# and VB\C#,VB\FormatUtilityCS\obj\x86\Debug\Formatter.Properties.Resources.resources
+C:\Users\Italo\Desktop\NET Framework 4 Formatting Utility\C# and VB\C#,VB\FormatUtilityCS\obj\x86\Debug\Formatter.Resources.resources
+C:\Users\Italo\Desktop\NET Framework 4 Formatting Utility\C# and VB\C#,VB\FormatUtilityCS\obj\x86\Debug\FormatUtilityCS.csproj.GenerateResource.Cache
+C:\Users\Italo\Desktop\NET Framework 4 Formatting Utility\C# and VB\C#,VB\FormatUtilityCS\obj\x86\Debug\Formatter.exe
+C:\Users\Italo\Desktop\NET Framework 4 Formatting Utility\C# and VB\C#,VB\FormatUtilityCS\obj\x86\Debug\Formatter.pdb
